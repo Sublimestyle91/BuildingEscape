@@ -1,0 +1,17 @@
+##################################
+### Files in Unreal to ignore ####
+#################################3
+
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Saved
+*/Intermediate/
+BuildingEscape/Content/StarterContent/
+*.vs/
+
+###################################
+#### Files in VisualStudio to ignor
+##################################
+
+*.VC.db
